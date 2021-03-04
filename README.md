@@ -1,4 +1,6 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Hi,%20there&fontSize=40&fontAlignY=45)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eeta&show_icons=true&hide=stars,prs,issues,contribs&theme=merko)](https://github.com/eeta/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eeta&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eeta/eeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
